@@ -1,0 +1,42 @@
+h1 {
+color: black; 
+}   
+body{
+    background: rgb(194, 192, 192);
+    margin: 0;
+}
+body{}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.contenedorGrande{
+    margin:auto
+}
+div.post{
+    background: white;
+    margin: 0;
+}
+div.img{
+    width: 100%;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    text
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0; 
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
